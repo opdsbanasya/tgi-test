@@ -1,0 +1,65 @@
+Home
+    Header
+        About
+        Services
+        Contact
+    Slider
+        images
+        text
+    Address
+    Accomodation
+        images
+        text
+    Services
+        dinning
+            article
+        event hall
+        facilities
+    Footer
+
+Services / Amenties
+    popular services
+        pool
+        spa
+        parking free
+        breakfast free
+    Internet
+        wifi free*
+    Food and drinks
+        restaurent*
+        bar
+        Room services
+        breakfast free
+        breakfast buffet
+    Services
+        front desk - 24-hours
+        full service laundry
+    Children
+        child friendly
+    Pools
+        pool*
+        no hot tub
+    parking and transportation
+        parking free*
+        Valet parking
+        Airport shuttle extra charge
+        car rental on site*
+        local shuttle
+    wellness
+        spa
+        fitness center*
+    Accessibility
+        Accessible
+    Pets
+        pets not allowed* 
+    Rooms
+        Air conditioning
+        Kitchen
+            
+Gallery
+Pricing
+Contact/Enquiry
+About us
+
+
+
