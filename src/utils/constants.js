@@ -1,5 +1,5 @@
 import building from "../assets/building.jpg";
-import hall from "../assets/hall.jpg";
+import hall from "../assets/event-hall.jpg";
 import mainPool from "../assets/main-pool.jpg";
 import buildingView from "../assets/building-view.jpg";
 import dinningArea from "../assets/dinning-area.jpg";
