@@ -3,7 +3,7 @@ import { CONTACT_INFO } from "../utils/constants";
 
 const ContactInfo = () => {
     return (
-        <div className="flex justify-between lg:flex-row flex-col xl:w-[80%] w-[90%] mx-auto lg:mt-16 mt-5">
+        <div className="flex justify-between lg:flex-row flex-col xl:w-[80%] w-[90%] mx-auto md:mt-10 mt-5">
             <h3 className="md:text-3xl text-2xl font-semibold font-serif text-center text-black my-5 lg:my-0">Contact Info</h3>
             <div>
                 <h4 className="w-full flex items-center justify-between gap-5 md:gap-28 mr-10 cursor-pointer md:text-2xl text-lg py-4 border-y-2 border-zinc-500 border-spacing-1  ">

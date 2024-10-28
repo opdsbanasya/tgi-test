@@ -1,6 +1,6 @@
 import building from "../assets/building.jpg";
+import hall from "../assets/hall.jpg";
 import mainPool from "../assets/main-pool.jpg";
-import hall from "../assets/event-hall.jpg";
 import buildingView from "../assets/building-view.jpg";
 import dinningArea from "../assets/dinning-area.jpg";
 import staff from "../assets/staff.jpg";
@@ -24,7 +24,7 @@ import customerSupport from "../assets/customerSupport.png";
 export const LOGO = "https://res.cloudinary.com/simplotel/image/upload/x_0,y_0,w_130,h_130,r_0,c_crop,q_80,dpr_1,f_auto,fl_progressive/tgi-hotels-and-resorts---3624/Image_-1_rtvdbd";
 
 export const CAROUSEL_DATA = {
-    name:"TIG Hotel",
+    name:"TGI Hotel",
     about: "Hotel TGI Grand Fortuna is a beacon of modernity and luxury in the heart of Hosur, ensuring guests a delightful stay. Its elegant ambience, plush interiors and strategic location near Hosur Railway Station and popular areas like Koramangala and HSR make it the perfect choice for travellers seeking comfortable accommodation. Its position on the outskirts of Bengaluru also offers convenient access to the city for both business and leisure, ensuring a seamless blend of work and relaxation."
 }
 
@@ -118,7 +118,7 @@ export const OTHER_FAC = [
 
 export const CONTACT_INFO = {
     name:"TGI Apple Inn, Jaipur",
-    address: "E-7, 36, Nirman Nagar, DCM Ajmer Road, Jaipur, Rajasthan - 302019",
+    address: "D.No.3/24, Seetharam Nagar, Krishnagiri Main Road, Hosur, Tamil Nadu - 635109",
     email:"appleinn@tgihotels.com",
     phone1:"+91 04344 667 600",
     phone2:"180 0258 3100",

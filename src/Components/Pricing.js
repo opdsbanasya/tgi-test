@@ -20,9 +20,9 @@ const Pricing = () => {
                 <div className="flex flex-col bg-zinc-50 rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300">
                     <div className="flex flex-col justify-between items-start gap-3 p-6">
                         <div>
-                            <h3 className="md:text-2xl text-lg font-semibold text-gray-900">Professional</h3>
+                            <h3 className="md:text-2xl text-lg font-semibold text-gray-900">Plan</h3>
                             <p className="mt-2 text-sm text-gray-500">
-                                This plan is for those who have a team already and running a large business.
+                            Hotel TGI Grand Fortuna is a beacon of modernity and luxury in the heart of Hosur, ensuring guests a delightful stay.
                             </p>
                         </div>
                         <div className="text-right">
@@ -30,7 +30,6 @@ const Pricing = () => {
                         </div>
                     </div>
 
-                    {/* Right section with button */}
                     <div className="p-6 pt-0 flex items-center">
                         <button onClick={() => navigateContactUs("contact-form")} className="w-fit mx-auto py-2 px-10 bg-indigo-600 hover:bg-indigo-700 text-white font-medium rounded-lg transition-colors duration-200">
                             Enquiry
