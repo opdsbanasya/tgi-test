@@ -4,7 +4,7 @@ import { CONTACT_INFO } from "../utils/constants";
 
 const Address = () => {
     return (
-        <div style={{backgroundImage:`url(${homeBg}})`}} className="w-full bg-none text-center font-light my-16 py-10 space-y-4">
+        <div style={{backgroundImage:`url(${homeBg}})`}} className="w-full bg-none text-center font-light md:my-16 my-8 py-10 space-y-4">
             <h2 className="text-xl md:text-2xl lg:text-3xl xl:text-4xl font-light font-serif">{CONTACT_INFO?.name}</h2>
             <p className="text-sm md:text-lg w-[75%] sm:[70%] md:w-full mx-auto">{CONTACT_INFO?.address}</p>
             <div className="flex md:flex-row flex-col w-[75%] sm:[70%] md:w-full mx-auto justify-center md:gap-8 gap-3">
